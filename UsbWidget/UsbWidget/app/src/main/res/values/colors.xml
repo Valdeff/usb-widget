@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="active">#00C896</color>
+    <color name="inactive">#AAAAAA</color>
+    <color name="md_primary">#006493</color>
+    <color name="md_surface">#F8F9FF</color>
+    <color name="md_surface_variant">#DDE3EA</color>
+    <color name="md_primary_container">#C8E6FF</color>
+    <color name="md_error">#BA1A1A</color>
+</resources>
